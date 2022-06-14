@@ -5,5 +5,5 @@
 - 📫 How to reach me : +33 6 95 49 40 30
 
 Please find below 2 web applications i developped with 2 team mates in Le Wagon :
-- Waste market: 8 days project, to buy and sell second hand perishable product - http://www.wastemarket.lol
+- Waste market: 8 days project, to buy and sell second hand perishable products with key features (barcode scan, QR code to secure transaction, ...) - http://www.wastemarket.lol
 - AIR-TA: 4 days project, to book a teacher assistant - https://air-ta.herokuapp.com/ 
